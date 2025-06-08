@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Maddie 👋
+
+I am a student at the University of North Carolina at Chapel Hill from Winter Park, FL. I am expecting to graduate in the spring of 2027. I am studying Computer Science and Economics. Reach out to me below!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madeline-clark-ba4215296/) [![Handshake](https://img.shields.io/badge/Handshake-Profile-blueviolet?style=for-the-badge&logo=handshake)]([https://app.joinhandshake.com/stu/users/YOUR-HANDSHAKE-ID](https://unc.joinhandshake.com/profiles/mth26b))
 
 <!--
 **mbclark37/mbclark37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
