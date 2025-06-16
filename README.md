@@ -1,6 +1,6 @@
 ## Hello world 🌎, I'm Maddie 👋
 
-I am a student at the University of North Carolina at Chapel Hill from Winter Park, FL. I am studying Computer Science 👩🏼‍💻💻 and Economics 💵📈 Reach out to me below!
+I am a student at the University of North Carolina at Chapel Hill from Winter Park, FL. I am studying Computer Science 👩🏼‍💻💻 and Economics 💵📈 and will graduate in the Spring of 2027. Reach out to me below!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madeline-clark-ba4215296/) 
 <!--
